@@ -1,0 +1,27 @@
+#TO RUN NOTEBOOK FILE 
+
+1. OPEN TERMINAL(window+R) and enter cmd
+
+2. enter commands
+
+python --version 
+
+jupyter --version
+
+python -m jupyter --version
+
+python -m notebook
+
+3. Run code in notebook 
+
+----------------------------------------------------------------
+
+
+#TO RUN DASHBOARD FILE
+
+1. RUN CODE IN VS-CODE AND SAVE FILE
+
+2. SELECT OPEN IN TERMINAL AND ENTER THIS COMMAND IN TERMINAL 
+
+
+        python -m streamlit run dashboard1.py 
