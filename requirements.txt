@@ -1,0 +1,43 @@
+Python libraries 
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit
+plotly
+fpdf
+
+
+----------------------------
+
+Explanation
+
+
+pandas → For dataset handling and preprocessing
+
+numpy → Numerical operations
+
+scikit-learn → Machine learning models (K-Means, classifiers)
+
+matplotlib & seaborn → Visualizations (scatter plots, confusion matrix, elbow method)
+
+streamlit → Interactive dashboard
+
+plotly → Advanced interactive charts
+
+fpdf → Automated PDF reporting
+
+----------------------------------------------------------------------------------------------------
+
+How to Use
+
+Save the above content in a file named requirements.txt in your repo’s root folder.
+
+Anyone can then install all libraries by running:
+
+bash
+pip install -r requirements.txt
+
+--------------------------------------------------------------------------------------------
